@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+#maven#
+/target/
+
+#netbeans#
+/nbproject
+nb-configuration.xml
+nbactions.xml
